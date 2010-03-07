@@ -4,7 +4,6 @@
  */
 
 package tabletopClient;
-
 /**
  *
  * @author durvas
